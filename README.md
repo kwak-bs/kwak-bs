@@ -3,7 +3,7 @@
 ### ***1 Day 1 Commit*** (2020.12.14~ing)
 
 - **E-mali** : iam-bs@naver.com
-- **Blog** : none;
+- **Blog** : https://bbangson.tistory.com/
 
 
 
