@@ -1,7 +1,5 @@
 ## 곽병선 👋
 
-### ***1 Day 1 Commit*** (2020.12.14~ing)
-
 - **E-mali** : iam-bs@naver.com
 - **Blog** : https://bbangson.tistory.com/
 
